@@ -1,4 +1,4 @@
-# FoolishTheadPool
+# FoolishThreadPool
 ## *~~FOOLISH~~THREADPOOL PROJECT*
 ###实现目标：  
     1. 基本的线程池功能，阻塞生产任务，阻塞消费任务  
